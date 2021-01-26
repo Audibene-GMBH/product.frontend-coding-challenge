@@ -35,8 +35,8 @@ This challenge will involve converting a visual design to HTML and CSS and then 
 
 - Please use vanilla JavaScript only. No JQuery, React, or 3rd party libraries and frameworks.
 - Please use vanilla CSS or SCSS. No Bootstrap or 3rd party CSS libraries and frameworks.
-- The page should look and function correctly on all major browsers including Internet Explorer 11.
-- Use a bundling tool like Webpack, Gulp, Parcel etc..
+- The page should be responsive and should look well on all viewports and function correctly on all major browsers including Internet Explorer 11.
+- Use a bundling tool like Webpack, Gulp, Parcel etc...
 - An npm build command should build the entire page to a dist folder.
 
 **Setting**
