@@ -26,7 +26,7 @@ This challenge will involve converting a visual design to HTML and CSS and then 
 
 **Things to focus on**
 
- * Scalable and maintainable CSS.
+ * Scalable and maintainable CSS and JS.
  * Accessibility.
  * Semantic HTML.
  * Speed optimization.
