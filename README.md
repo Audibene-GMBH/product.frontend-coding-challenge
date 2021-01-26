@@ -13,12 +13,12 @@ This challenge will involve converting a visual design to HTML and CSS and then 
 	- The questionnaire will consist of 6 total slides.
 	- The first 5 slides will contain questions which you can find in `questions.txt`.
 		- Assume that in the future this number is subject to change and the code should be easily adaptable.
-	- The last slide will contain a simple success message and should show all the answers the user selected.
+	- The last slide will contain a simple success message and should show all the answers the user selected in an easy to read format.
 		- It is up to you on how to style this and make it look nice.
 	- The answers to each question will act as radio buttons and you should only be able to select one answer per question.
 	- Each question will have a submit button that will allow you to go to the next question.
 	- Next and previous arrows will allow you to go back and forth between questions.
-	- Each question is required and you should not be able to go to the next question without having answered the current question (even if using arrows).
+	- Each question is required and you should not be able to go to the next question without having answered the current question.
 		- You might want to show the user some sort of message if this happens.
 	- Bonus points
 		- Add the ability to skip to certain questions via the use of URL params. For example: https://localhost:3000/?skip=2 would skip you to the second question.
