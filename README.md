@@ -1,6 +1,6 @@
 ## Frontend Developer Challenge
 
-Thank you for applying to hear.com as a frontend developer. We would like to get a general idea of your expertise and give you the chance to show us that you are a battle proven developer.
+Thank you for applying to hear.com as a frontend developer. We would like to get a general idea of your expertise and give you the chance to show us your skills.
 
 This challenge will involve converting a visual design to HTML and CSS and then adding interactivity to that design using Javascript.
 
