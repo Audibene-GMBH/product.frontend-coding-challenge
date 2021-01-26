@@ -26,7 +26,7 @@ This challenge will involve converting a visual design to HTML and CSS and then 
 
 **Things to focus on**
 
- * Scalable and maintainable code (assume this is for production and will be used by a team).
+ * Scalable and maintainable CSS and JS.
  * Accessibility.
  * Semantic HTML.
  * Speed optimization.
@@ -41,8 +41,8 @@ This challenge will involve converting a visual design to HTML and CSS and then 
 
 **Setting**
 
-We expect you to ​invest about 4-8 hours f​or this task. We prefer quality over quantity.​ The level of feature completeness, documentation, tests is subject to your decision making. Feel free to make any trade-off and document your decisions. Think: Product Management is in vacation and not available.
+We expect you to ​invest about 4-8 hours f​or this task. We prefer quality over quantity.​ The level of feature completeness, documentation, tests is subject to your decision making. Feel free to make any trade-off and document your decisions. Think: product management is on vacation and not available.
 
 **Deliverable**
 
-Please provide us a link to a git repo with your source code and instructions on how to run the code. Make sure it works rather out of the box. Briefly describe your solution and explicitly mention any trade-offs and simplifications in your solution. Put Instructions and solution description in a README file.
+Please provide us a link to a git repo with your source code and instructions on how to run the code. Make sure it works out of the box and Briefly describe your solution and explicitly mention any trade-offs and simplifications. Put instructions and solution description in a README file.
