@@ -26,11 +26,10 @@ This challenge will involve converting a visual design to HTML and CSS and then 
 
 **Things to focus on**
 
- * Scalable and maintainable CSS and JS.
+ * Scalable and maintainable code (assume this is for production and will be used by a team).
  * Accessibility.
  * Semantic HTML.
  * Speed optimization.
- * Think in “components”.
 
 **Tech Requirements**
 
