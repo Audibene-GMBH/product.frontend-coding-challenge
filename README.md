@@ -45,4 +45,4 @@ We expect you to ​invest about 4-8 hours f​or this task. We prefer quality o
 
 **Deliverable**
 
-Please provide us a link to a git repo with your source code and instructions on how to run the code. Make sure it works out of the box and Briefly describe your solution and explicitly mention any trade-offs and simplifications. Put instructions and solution description in a README file.
+Please provide us a link to a git repo with your source code and instructions on how to run the code. Make sure it works out of the box and briefly describe your solution and explicitly mention any trade-offs and simplifications. Put instructions and a description in a README file.
