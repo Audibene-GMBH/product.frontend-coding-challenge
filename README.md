@@ -6,7 +6,9 @@ This challenge will involve converting a visual design to HTML and CSS and then 
 
 **The challenge**
 
- * Please convert the [following design](https://www.figma.com/file/ILyzTrUCkLZGv9xBvneTjS/Front-End-Assesment?node-id=2%3A32) to HTML and CSS (please note there is a mobile and desktop design).
+ * Please convert the [following design](https://www.figma.com/file/ILyzTrUCkLZGv9xBvneTjS/Front-End-Assesment?node-id=2%3A32) to HTML and CSS.
+	- It will probably easiest if you create a Figma account.
+	- Please note that there are two versions of the page: 1) Mobile and 2) Desktop.
  * The end result should work well on mobile, tablet, and desktop devices.
  * Within the design you will find a questionnaire “carousel”.
 	- The questionnaire will consist of 6 total slides.
