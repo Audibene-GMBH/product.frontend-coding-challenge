@@ -18,26 +18,25 @@ This challenge will involve converting a visual design to HTML and CSS and then 
 	- Each question will have a submit button that will allow you to go to the next question.
 	- Next and previous arrows will allow you to go back and forth between questions.
 	- Each question is required and you should not be able to go to the next question without having answered the current question (even if using arrows).
-		- You might want to show the user some sort of message.
+		- You might want to show the user some sort of message if this happens.
 	- Bonus points
-		- Create a simple API where you can skip to a certain question via URL params.
+		- Add the ability to skip to certain questions via the use of URL params. For example: https://localhost:3000/?skip=2 would skip you to the second question.
 		- Animate the transition between each step.
 
 **Things to focus on**
 
- * Scalable and sane CSS
- * Accessibility
- * Semantic HTML
- *  Speed optimization.
- * Think in “components”
+ * Scalable and maintainable CSS.
+ * Accessibility.
+ * Semantic HTML.
+ * Speed optimization.
+ * Think in “components”.
 
 **Tech Requirements**
 
-- Please use vanilla JavaScript only.
-- No JQuery, React, or 3rd party libraries and frameworks.
+- Please use vanilla JavaScript only. No JQuery, React, or 3rd party libraries and frameworks.
 - Please use vanilla CSS or SCSS. No Bootstrap or 3rd party CSS libraries and frameworks.
-- Use a bundling tool like Webpack, Gulp, Parcel etc..
 - The page should look and function correctly on all major browsers including Internet Explorer 11.
+- Use a bundling tool like Webpack, Gulp, Parcel etc..
 - An npm build command should build the entire page to a dist folder.
 
 **Setting**
