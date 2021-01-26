@@ -10,7 +10,7 @@ This challenge will involve converting a visual design to HTML and CSS and then 
  * The end result should work well on mobile, tablet, and desktop devices.
  * Within the design you will find a questionnaire “carousel”.
 	- The questionnaire will consist of 6 total slides.
-	- The first 5 slides will contain questions - see `questions.txt` file.
+	- The first 5 slides will contain questions which you can find in `questions.txt`.
 		- Assume that in the future this number is subject to change and the code should be easily adaptable.
 	- The last slide will contain a simple success message and should show all the answers the user selected.
 		- It is up to you on how to style this and make it look nice.
