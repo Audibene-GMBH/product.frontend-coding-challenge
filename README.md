@@ -22,7 +22,7 @@ This challenge will involve converting a visual design to HTML and CSS and then 
 		- You might want to show the user some sort of message if this happens.
 	- Bonus points
 		- Add the ability to skip to certain questions via the use of URL params. For example: https://localhost:3000/?skip=2 would skip you to the second question.
-		- Animate the transition between each step.
+		- Animate the transition between steps.
 
 **Things to focus on**
 
