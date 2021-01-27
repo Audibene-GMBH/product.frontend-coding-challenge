@@ -33,15 +33,15 @@ This challenge will involve converting a visual design to HTML and CSS and then 
 
 **Tech Requirements**
 
-- Please use vanilla JavaScript only. No JQuery, React, or 3rd party libaries and frameworks.
+- Please use vanilla JavaScript only. No JQuery, React, or 3rd party libraries and frameworks.
 - Please use vanilla CSS or SCSS. No Bootstrap or 3rd party CSS libraries and frameworks.
-- The page should be responsive and should look well on all viewports and function correctly on all major browsers including Internet Explorer 11.
+- The page should be responsive and should look good on all viewports and function correctly on all major browsers including Internet Explorer 11.
 - Use a bundling tool like Webpack, Gulp, Parcel etc...
 - An npm build command should build the entire page to a dist folder.
 
 **Setting**
 
-We expect you to invest about 4-8 hours for this challenge. We prefer quality over quantity. The level of feature completeness, documentation, tests is subject to your decision making. Feel free to make any trade-off and document your decisions. Think: product management is on vacation and not available.
+We expect you to invest about 4-8 hours for this challenge. We prefer quality over quantity. The level of feature completeness, documentation, tests is subject to your decision making. Feel free to make any trade-offs and document your decisions. Think: product management is on vacation and not available.
 
 **Deliverable**
 
