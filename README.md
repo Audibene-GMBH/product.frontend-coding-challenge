@@ -29,6 +29,7 @@ This challenge will involve converting a visual design to HTML and CSS and then 
  * Accessibility.
  * Semantic HTML.
  * Speed optimization.
+ * Attention to design details.
 
 **Tech Requirements**
 
