@@ -1,6 +1,6 @@
-## Frontend Developer Challenge
+## Front End Developer Challenge
 
-Thank you for applying to hear.com as a frontend developer. We would like to get a general idea of your expertise and give you the chance to show us your skills.
+Thank you for applying to hear.com as a Front End developer. We would like to get a general idea of your expertise and give you the chance to show us your skills.
 
 This challenge will involve converting a visual design to HTML and CSS and then adding interactivity to that design using Javascript. In order to view the design, please create a [Figma](https://www.figma.com/) account and then import the `hear-com-landing-page.fig` into the Figma editor (you can use the web or desktop version of the app).
 
